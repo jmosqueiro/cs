@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5GFTRwXXhTp3rnDZuP4o7XZmLV8JbtQTuivuBzH41KtDEZv5W05TESi4WX09XUZ+JTPgt2Y4rCpdqoAoqGwppA==",
+  "success": true,
+  "projectFilePath": "D:\\PROJETOS\\cs\\Hello World\\Hello World.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Furos\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

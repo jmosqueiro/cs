@@ -1,0 +1,13 @@
+D:\PROJETOS\cs\StringTests\bin\Debug\netcoreapp3.1\StringTests.exe
+D:\PROJETOS\cs\StringTests\bin\Debug\netcoreapp3.1\StringTests.deps.json
+D:\PROJETOS\cs\StringTests\bin\Debug\netcoreapp3.1\StringTests.runtimeconfig.json
+D:\PROJETOS\cs\StringTests\bin\Debug\netcoreapp3.1\StringTests.runtimeconfig.dev.json
+D:\PROJETOS\cs\StringTests\bin\Debug\netcoreapp3.1\StringTests.dll
+D:\PROJETOS\cs\StringTests\bin\Debug\netcoreapp3.1\StringTests.pdb
+D:\PROJETOS\cs\StringTests\obj\Debug\netcoreapp3.1\StringTests.csprojAssemblyReference.cache
+D:\PROJETOS\cs\StringTests\obj\Debug\netcoreapp3.1\StringTests.AssemblyInfoInputs.cache
+D:\PROJETOS\cs\StringTests\obj\Debug\netcoreapp3.1\StringTests.AssemblyInfo.cs
+D:\PROJETOS\cs\StringTests\obj\Debug\netcoreapp3.1\StringTests.csproj.CoreCompileInputs.cache
+D:\PROJETOS\cs\StringTests\obj\Debug\netcoreapp3.1\StringTests.dll
+D:\PROJETOS\cs\StringTests\obj\Debug\netcoreapp3.1\StringTests.pdb
+D:\PROJETOS\cs\StringTests\obj\Debug\netcoreapp3.1\StringTests.genruntimeconfig.cache

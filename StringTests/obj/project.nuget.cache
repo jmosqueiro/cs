@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kcaDvmZI+4z/IG/I0upkbXlCPYci1LuoVZx1z0Yd92LNabOoLCPPWNgBTEwDwOgOmTHVfkRy1rIkq4CwCrnaMw==",
+  "success": true,
+  "projectFilePath": "D:\\PROJETOS\\cs\\StringTests\\StringTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Furos\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
